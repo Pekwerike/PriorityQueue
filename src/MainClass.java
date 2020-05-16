@@ -6,7 +6,6 @@ public class MainClass {
         priorityQueue.insertElement("Prosper");
         priorityQueue.insertElement("Chiemela");
         priorityQueue.insertElement("Ekwerike");
-        priorityQueue.insertElement("Olamilesi");
         priorityQueue.insertElement("Zfancy");
         priorityQueue.insertElement("Ojuko");
         priorityQueue.insertElement("Jobo");
